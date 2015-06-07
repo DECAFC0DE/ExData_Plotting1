@@ -1,4 +1,14 @@
-## Introduction
+*Completed solution code of Project 1 for Exploratory Data Coursera course.*
+###Description of files
+* *datareader.R* -- Has getData function to read household power consumption data. Note
+that the data file location is outside of this repository. Adjust accordingly if you aim to run this code by passing appropriate dataFilename to the function.
+* *plot1.R*, *plot2.R*, *plot3.R*, *plot4.R* -- All produce the required PNG file on simply sourcing.
+* *plot1.png*, *plot2.png*, *plot3.png*, *plot4.png* -- As asked below per project 1 requirements.
+
+=========
+## Project 1 Writeup
+
+### Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
